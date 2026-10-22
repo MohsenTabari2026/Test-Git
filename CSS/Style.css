@@ -12,6 +12,9 @@ canvas {
 h1{
   font-size: 2ex;
 }
+.slider{
+  background-color: green;
+}
 footer{
   background-color: brown;
 }

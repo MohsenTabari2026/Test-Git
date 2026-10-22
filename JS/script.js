@@ -11,6 +11,8 @@ document.addEventListener('keydown', e => {
   p1Y = Math.max(0, Math.min(370, p1Y));
 });
 
+
+
 function draw() {
   ctx.fillStyle = '#0a0a0a';
   ctx.fillRect(0, 0, 700, 450);
